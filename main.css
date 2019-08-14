@@ -6,6 +6,43 @@ h1{
     text-align:center;
 }
 h1{
-    color;blue;
+    color: blue;
 
+}
+body
+{
+  background-color: yellow;
+}
+h1{
+  text-align:center;
+}
+h2{
+  text-align:center;
+}
+dt{
+  text-align:center;
+}
+h1{
+  color:red;
+}
+h2{
+  color:blue;
+}
+dt{
+  color:blue;
+}
+h1{
+  font-family:"times new roman";
+}
+h2{
+  font-family:"times new roman";
+}
+h2{
+  color:black;
+}
+h1{
+  background-color:black;
+}
+h2{
+  color:black;
 }
